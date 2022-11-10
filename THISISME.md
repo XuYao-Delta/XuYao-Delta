@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @XuYao-Delta
+- 👀 I’m interested in developing a personal website like blog or resume for posting some weird stuff. 
+- 🌱 I’m currently learning programming in a nutshell, will jump around between different language depending on current study.
+- 💞️ I’m looking to collaborate on nothing yet~
+- 📫 you can always contact me via email, xychan1007@gmail.com
